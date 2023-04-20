@@ -1,0 +1,20 @@
+{
+  "name": "tunetactician",
+  "version": "1.0.0",
+  "description": "helps generate new playlists from the songs you already have",
+  "main": "rekordbox-analyzer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rekordbox",
+    "dj",
+    "playlists"
+  ],
+  "author": "mentalfoundry",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "xml2js": "^0.5.0"
+  }
+}
